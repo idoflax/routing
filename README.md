@@ -1,6 +1,6 @@
 # Routing Service
 
-- This uses information from <https://raw.githubusercontent.com/mledoze/countries/master/countries.json> to determine the best land route between two given points
+- The service uses information from <https://raw.githubusercontent.com/mledoze/countries/master/countries.json> to determine the best land route between two given points
 - The service runs on <http://localhost:8080>
 
 ### Technologies
